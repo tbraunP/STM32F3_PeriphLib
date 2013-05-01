@@ -31,5 +31,5 @@ include_directories("../STM32F3_CMSIS/inc")
 
 # add source files from folder
 AUX_SOURCE_DIRECTORY("src/" SRCS)
-add_library(STM32F3_LIB_PeriphLib ${SRCS})
+add_library(STM32F3_PeriphLib ${SRCS})
 
