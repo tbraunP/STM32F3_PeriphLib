@@ -46,6 +46,7 @@
   */
 
 /* Includes ------------------------------------------------------------------*/
+#include "stm32f30x_conf.h"
 #include "stm32f30x_syscfg.h"
 
 /** @addtogroup STM32F30x_StdPeriph_Driver

@@ -84,6 +84,7 @@
   */
 
 /* Includes ------------------------------------------------------------------*/
+#include "stm32f30x_conf.h"
 #include "stm32f30x_wwdg.h"
 #include "stm32f30x_rcc.h"
 

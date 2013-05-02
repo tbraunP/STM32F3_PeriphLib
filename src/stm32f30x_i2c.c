@@ -76,6 +76,7 @@
   */
 
 /* Includes ------------------------------------------------------------------*/
+#include "stm32f30x_conf.h"
 #include "stm32f30x_i2c.h"
 #include "stm32f30x_rcc.h"
 

@@ -90,6 +90,7 @@
   */
 
 /* Includes ------------------------------------------------------------------*/
+#include "stm32f30x_conf.h"
 #include "stm32f30x_iwdg.h"
 
 /** @addtogroup STM32F30x_StdPeriph_Driver

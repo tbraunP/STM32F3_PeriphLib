@@ -33,6 +33,7 @@
   */
 
 /* Includes ------------------------------------------------------------------*/
+#include "stm32f30x_conf.h"
 #include "stm32f30x_pwr.h"
 #include "stm32f30x_rcc.h"
 
